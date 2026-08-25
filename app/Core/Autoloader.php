@@ -4,7 +4,6 @@ namespace App\Core;
 
 /**
  * Autoload simples no padrão PSR-4 para o namespace App\,
- * sem Composer (proibido neste teste).
 */
 class Autoloader
 {
